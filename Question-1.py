@@ -1,3 +1,8 @@
 # Write a python script to add comments and print "Learning Python" on screen
 
-print("Learning Python")
+
+# Assigning a string to a variable
+learning_message = "Learning Python"
+
+# Printing the message on the screen
+print(learning_message)

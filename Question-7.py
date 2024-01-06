@@ -1,8 +1,8 @@
 # On python shell use help() function and display the list of keywords
 
-'''I'm using linux OS, so first of all I have to open my terminal and type python3 and the python shell will start.
-Then I have to write help() and the function will start running and then type Keywords
-the result will be shown like this'''
+"""First we need to open terminal type python in it. Now a python shell will open and then
+we need to type help() in it and in help shell we need to type keywords and now all the 35 keywords
+will print in the terminal"""
 
 '''
 False               class               from                or
